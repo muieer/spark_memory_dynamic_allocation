@@ -3,7 +3,8 @@ target/
 ### IntelliJ IDEA ###
 .idea/
 
-
+# 测试数据目录
+data/
 
 ### Mac OS ###
 .DS_Store
